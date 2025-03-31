@@ -1,1 +1,2 @@
 # CUSTOMER-SEGMENTATION-USING-DEEP-LEARNING-FOR-ENHANCED-BANKING-INSIGHTS
+This repository contains the implementation of an AI-driven customer segmentation model designed to improve banking insights through deep learning techniques. The project leverages advanced Natural Language Processing (NLP) and unsupervised learning to classify customer transactions, identify spending patterns, and optimize financial decision-making for banks and financial institutions.
